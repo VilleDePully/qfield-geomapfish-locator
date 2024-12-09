@@ -28,7 +28,7 @@ Item {
     locatorBridge: iface.findItemByObjectName('locatorBridge')
 
     parameters: {
-      "service_url": "https://geomapfish-demo-2-8.camptocamp.com/search",
+      "service_url": "https://www.sigip.ch/search",
       "service_crs": "EPSG:2056"
     }
     source: Qt.resolvedUrl('geomapfish.qml')
